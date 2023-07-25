@@ -1,3 +1,4 @@
+//basic functions of book inventiory
 #include<iostream>
 #include<string.h>
 #include<stdlib.h>
